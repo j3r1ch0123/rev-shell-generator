@@ -1,1 +1,3 @@
 # rev-shell-generator
+More languages to be added...
+Getting tired of looking up reverse shell cheat sheets? This script lets you skip that step.
